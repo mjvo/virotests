@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Viro
+android
+ios
+__tests__/App-test.js
